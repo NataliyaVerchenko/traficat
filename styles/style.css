@@ -1,0 +1,46 @@
+body{
+    color: white;
+    font-size: 30px;
+}
+p{
+    padding-top: 2px;
+    text-transform:uppercase;
+}
+.wrapper-traficcat{
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    border: 15px solid #000000;
+    background: gainsboro;
+}
+.box-traficcat{
+    height: 100px;
+    margin: 38px;
+    border: 10px solid #000000;
+    border-radius: 50%;
+}
+.red{
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/736x/05/91/fd/0591fdd8374b00d310d11d87c6150f88--excited-cat-beautiful-love.jpg);
+}
+.red:hover{
+    background: red;
+}
+.yellow{
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/736x/05/91/fd/0591fdd8374b00d310d11d87c6150f88--excited-cat-beautiful-love.jpg);
+}
+.yellow:hover{
+    background: yellow;
+}
+.green{
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/736x/05/91/fd/0591fdd8374b00d310d11d87c6150f88--excited-cat-beautiful-love.jpg);
+
+}
+.green:hover{
+    background: green;
+}
+.centered{
+    text-align: center;
+}
